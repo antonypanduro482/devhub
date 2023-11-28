@@ -25,7 +25,7 @@
     "intl": "1.2.5",
     "intl-locales-supported": "1.8.12",
     "react": "17.0.1",
-    "react-native": "0.64.2",
+    "react-native": "0.65.0",
     "react-native-gesture-handler": "1.9.0",
     "react-native-haptic-feedback": "1.11.0",
     "react-native-inappbrowser-reborn": "3.5.1",
@@ -35,7 +35,7 @@
     "react-native-safe-area-context": "3.1.9",
     "react-native-splash-screen": "3.2.0",
     "react-native-store-review": "0.1.5",
-    "react-native-vector-icons": "7.1.0"
+    "react-native-vector-icons": "9.1.0"
   },
   "devDependencies": {
     "babel-jest": "26.6.3",
